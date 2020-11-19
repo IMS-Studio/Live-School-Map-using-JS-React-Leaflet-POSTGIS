@@ -104,16 +104,16 @@ Here are links to documentation and resources that should help you build this.
 
  ## Examples
 
-### Here are some screenshots of what a finished project could look like
+### Here are some screenshots of the finished project
 
 #### Initial Load
-![Initial Load](.github/initial.png)
+![Initial Load](pages/initiall.png)
 
 #### Popup Example
-![Popup](.github/popup.png)
+![Popup](pages/popup.png)
 
 #### Changed Viewport view
-![Changed Viewport](.github/changedviewport.png)
-
+![Changed Viewport](pages/changedviewport.png)
 #### Changed Viewport while a Popup is open
-![Changed Viewport and Popup Open](.github/changedviewportpopup.png)
+![Changed Viewport and Popup Open](pages/changedviewportpopup.png)
+
