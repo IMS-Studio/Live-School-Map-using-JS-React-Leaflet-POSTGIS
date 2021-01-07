@@ -15,21 +15,7 @@ npm run dev
 # or
 yarn dev
 ```
-![app pages](https://user-images.githubusercontent.com/1418259/98745870-5ee94a80-2382-11eb-9d8b-9467000f9cc4.png)
 
-![image](https://user-images.githubusercontent.com/1418259/98625941-a4543c00-22de-11eb-9d14-78d1a6919b4a.png)
-![2](https://user-images.githubusercontent.com/1418259/98747324-4a5a8180-2385-11eb-862a-cd3ec1cec03d.png)
-![33333](https://user-images.githubusercontent.com/1418259/98744159-39a70d00-237f-11eb-9e98-a94742b63b2f.png)
-
-![maps](https://user-images.githubusercontent.com/1418259/98747687-061bb100-2386-11eb-8846-e006356446ef.png)
-![main](https://user-images.githubusercontent.com/1418259/98747693-087e0b00-2386-11eb-95e8-b07b47305385.png)
-![map](https://user-images.githubusercontent.com/1418259/98747695-0a47ce80-2386-11eb-9828-04b7be0119d9.png)
-
-![app pages](https://user-images.githubusercontent.com/1418259/98745870-5ee94a80-2382-11eb-9d8b-9467000f9cc4.png)
-![sch1](https://user-images.githubusercontent.com/1418259/98744616-0749df80-2380-11eb-820e-5889d96081c5.png)
-![sch2](https://user-images.githubusercontent.com/1418259/98744620-0913a300-2380-11eb-8bc2-680e1105abee.png)
-![sch44](https://user-images.githubusercontent.com/1418259/98747427-770e9900-2385-11eb-9df4-3fae69a8e438.png)
-![sch666](https://user-images.githubusercontent.com/1418259/98747478-94436780-2385-11eb-8ccb-fe3b13e920cf.png)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
